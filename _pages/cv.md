@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- B.S.  JohnClass, Zhiyuan College, Shanghai Jiao Tong University   (2023.9 ~ *2027 expected*)
+  - major in Computer Science
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
+
+## Research Interest
+
+- Multi-modal Learning
+- Embodied AI
+- To be explored...
+
+
+
+
+
+## Research Experience
+
+- [RHOS](https://mvig-rhos.com/) at [MVIG](https://www.mvig.org), Shanghai Jiao Tong University
+
+  ​	Research Intern, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
+
+
+
+
+
+## Selected Awards
+
+- International Collegiate Programming Contest (ICPC), **Regional Gold medal * 3**, 2023
+
+
+
+
+
+## Skills
+
+- Programming Language: C++, Python(PyTorch), LaTeX
+- English: CET-4 (635)
+
+
+
+
+
+*Last Updated on July 18, 2024*
