@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Nanxi Li's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nanxi Li"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andylinx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_lnx.png"
   name             : "Nanxi Li"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at Shanghai Jiao Tong University, majoring in Computer Science."
