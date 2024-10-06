@@ -12,5 +12,13 @@ venue: "arXiv"
 # paperurl: "https://arxiv.org/abs/2410.01417"
 # project: "https://mvig-rhos.com/llm_inception"
 ---
+<figure>
+  <img src="/images/llm_perception_teaser_figure.png" alt="Teaser figure for The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs" style="width:100%">
+  <figcaption>Figure 1: Overview of our proposed association benchmark for Multi-modal Large Language Models (MLLMs).</figcaption>
+</figure>
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Multi-modal Large Language Models (MLLMs) have exhibited impressive capability. However, recently many deficiencies of MLLMs have been found compared to human intelligence, e.g., hallucination. To drive the MLLMs study, the community dedicated efforts to building larger benchmarks with complex tasks. In this paper, we propose benchmarking an essential but usually overlooked intelligence: association, a human's basic capability to link observation and prior practice memory. To comprehensively investigate MLLM's performance on the association, we formulate the association task and devise a standard benchmark based on adjective and verb semantic concepts. Instead of costly data annotation and curation, we propose a convenient annotation-free construction method transforming the general dataset for our association tasks. Simultaneously, we devise a rigorous data refinement process to eliminate confusion in the raw dataset. Building on this database, we establish three levels of association tasks: single-step, synchronous, and asynchronous associations. Moreover, we conduct a comprehensive investigation into the MLLMs' zero-shot association capabilities, addressing multiple dimensions, including three distinct memory strategies, both open-source and closed-source MLLMs, cutting-edge Mixture-of-Experts (MoE) models, and the involvement of human experts. Our systematic investigation shows that current open-source MLLMs consistently exhibit poor capability in our association tasks, even the currently state-of-the-art GPT-4V(vision) also has a significant gap compared to humans. We believe our benchmark would pave the way for future MLLM studies.
+
+[Project](https://mvig-rhos.com/llm_inception)
+[Code](https://github.com/lihong2303/LLM_Inception)
+[Paper](https://arxiv.org/abs/2410.01417)
