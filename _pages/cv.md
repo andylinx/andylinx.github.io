@@ -38,6 +38,10 @@ redirect_from:
 
 
 
+## Publications
+
+- **[ICLR2025]** The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs. Hong Li, _**Nanxi Li**_, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li
+
 
 
 ## Selected Awards
@@ -52,9 +56,10 @@ redirect_from:
 
 - Programming Language: C++, Python(PyTorch), LaTeX
 - English: CET-4 (635)
+- English: CET-6 (613)
 
 
 
 
 
-*Last Updated on July 18, 2024*
+*Last Updated on Jan 25, 2025*
