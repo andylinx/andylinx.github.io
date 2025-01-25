@@ -6,7 +6,7 @@ excerpt: "In this paper, we first devise a standard association benchmark based 
 [Project](https://mvig-rhos.com/llm_inception)
 [Code](https://github.com/lihong2303/LLM_Inception)
 [Paper](https://arxiv.org/abs/2410.01417)"
-date: 2025
+date: 2025-01-23
 venue: "ICLR"
 # code: "https://github.com/lihong2303/LLM_Inception"
 # paperurl: "https://arxiv.org/abs/2410.01417"
