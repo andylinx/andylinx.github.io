@@ -22,8 +22,8 @@ redirect_from:
 
 ## Research Interest
 
-- Multi-modal Learning
-- Embodied AI
+- Multi-modal Large Language Model
+- AI Security
 - To be explored...
 
 
