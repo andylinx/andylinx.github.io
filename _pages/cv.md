@@ -40,7 +40,9 @@ redirect_from:
 
 ## Publications
 
-- **[ICLR2025]** The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs. Hong Li, _**Nanxi Li**_, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li
+- **[ICLR2025]** The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs. 
+
+  Hong Li, _**Nanxi Li**_, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li
 
 
 
