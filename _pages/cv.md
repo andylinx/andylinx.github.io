@@ -23,7 +23,7 @@ redirect_from:
 ## Research Interest
 
 - Multi-modal Large Language Model
-- AI Security
+- AI Safety and Security
 - To be explored...
 
 
@@ -48,7 +48,8 @@ redirect_from:
 
 ## Selected Awards
 
-- International Collegiate Programming Contest (ICPC), **Regional Gold medal * 3**, 2023
+- International Collegiate Programming Contest (ICPC), **Regional Gold Medal * 3**, 2023
+- National Olympiad in Informatics (NOI), **Silver Medal**, 2022
 
 
 
