@@ -3,9 +3,13 @@ title: "The Labyrinth of Links: Navigating the Associative Maze of Multi-modal L
 collection: publications\
 category: manuscripts
 excerpt: "In this paper, we first devise a standard association benchmark based on adjective and verb association semantic concepts. Instead of costly data annotation and organization, we propose a convenient annotation-free reconstruction method transforming the general dataset for our association tasks. Furthermore, we comprehensively investigate the MLLMs's ability and potential for association ability.
+
 [Project](https://mvig-rhos.com/llm_inception)
+
 [Code](https://github.com/lihong2303/LLM_Inception)
+
 [Paper](https://arxiv.org/abs/2410.01417)
+
 [Video](https://recorder-v3.slideslive.com/?share=99613&s=4988c07d-e6d8-48b6-a7fb-df2a9cf3357b)
 "
 date: 2025-01-23
