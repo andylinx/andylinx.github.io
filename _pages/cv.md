@@ -22,8 +22,8 @@ redirect_from:
 
 ## Research Interest
 
-- Multi-modal Large Language Model
 - AI Safety and Security
+- Multi-modal Large Language Model
 - To be explored...
 
 
@@ -58,11 +58,8 @@ redirect_from:
 ## Skills
 
 - Programming Language: C++, Python(PyTorch), LaTeX
-- English: CET-4 (635)
-- English: CET-6 (613)
+- English: TOEFL 112, CET-4 (635), CET-6 (613)
 
 
 
-
-
-*Last Updated on Jan 25, 2025*
+*Last Updated on Oct 24, 2025*
