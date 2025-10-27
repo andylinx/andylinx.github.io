@@ -32,9 +32,17 @@ redirect_from:
 
 ## Research Experience
 
+- SafoLab, Johns Hopkins University
+
+  Research Intern, supervised by Prof. [Chaowei Xiao](https://xiaocw11.github.io/).
+
+- XuanWu Lab, Tencent
+
+  Research Intern, mentored by Jiashuo Liang and Guancheng Li.
+
 - [RHOS](https://mvig-rhos.com/) at [MVIG](https://www.mvig.org), Shanghai Jiao Tong University
 
-  ​	Research Intern, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
+  Research Intern, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 
 
 
