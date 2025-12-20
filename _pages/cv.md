@@ -56,9 +56,10 @@ redirect_from:
 
 ## Selected Awards
 
+
+- [Irving T. Ho Fellowship](https://irvingthofoundation.github.io/ho-fellows.htm), 2025
 - International Collegiate Programming Contest (ICPC), **Regional Gold Medal * 3**, 2023
 - National Olympiad in Informatics (NOI), **Silver Medal**, 2022
-
 
 
 ## Community Service
@@ -74,4 +75,4 @@ redirect_from:
 
 
 
-*Last Updated on Oct 30, 2025*
+*Last Updated on Dec 20, 2025*
