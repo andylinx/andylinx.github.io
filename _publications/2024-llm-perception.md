@@ -10,7 +10,6 @@ excerpt: "In this paper, we first devise a standard association benchmark based 
 
 [Paper](https://arxiv.org/abs/2410.01417)
 
-[Video](https://recorder-v3.slideslive.com/?share=99613&s=4988c07d-e6d8-48b6-a7fb-df2a9cf3357b)
 "
 authors: "Hong Li, Nanxi Li, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li"
 highlight_author: "Nanxi Li"
@@ -32,6 +31,4 @@ Multi-modal Large Language Models (MLLMs) have exhibited impressive capability. 
 [[Code]](https://github.com/lihong2303/LLM_Inception)
 
 [[Paper]](https://arxiv.org/abs/2410.01417)
-
-[[Video]](https://recorder-v3.slideslive.com/?share=99613&s=4988c07d-e6d8-48b6-a7fb-df2a9cf3357b)
 
