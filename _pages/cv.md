@@ -22,27 +22,8 @@ redirect_from:
 
 ## Research Interest
 
-- AI Safety and Security
 - Multi-modal Large Language Model
 - To be explored...
-
-
-
-
-
-## Research Experience
-
-- SafoLab, Johns Hopkins University
-
-  Research Intern, supervised by Prof. [Chaowei Xiao](https://xiaocw11.github.io/).
-
-- XuanWu Lab, Tencent
-
-  Research Intern, mentored by Jiashuo Liang and Guancheng Li.
-
-- [RHOS](https://mvig-rhos.com/) at [MVIG](https://www.mvig.org), Shanghai Jiao Tong University
-
-  Research Intern, supervised by Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 
 
 
