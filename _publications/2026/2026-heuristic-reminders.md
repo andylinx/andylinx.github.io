@@ -7,4 +7,7 @@ pub_date: "2026"
 authors:
   - Nanxi Li
   - Chaowei Xiao
+links:
+  Paper: https://openreview.net/pdf?id=E6FOvv6Hdj
+  Code: https://github.com/andylinx/Heuristic_Reminder
 ---
