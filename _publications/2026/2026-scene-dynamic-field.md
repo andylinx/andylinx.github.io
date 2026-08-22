@@ -7,7 +7,7 @@ pub_date: "2026"
 abstract: >-
   We propose Scene Dynamic Field, a framework that integrates physics simulators into multimodal large language model fine-tuning to improve intuitive physics understanding.
 authors:
-  - Nanxi Li*
+  - Nanxi Li
   - Xiang Wang
   - Yuanjie Chen
   - Haode Zhang

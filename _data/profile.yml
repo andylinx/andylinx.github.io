@@ -18,7 +18,7 @@ portrait_caption: "Nanxi Li"
 short_bio_text_justify: false
 short_bio: >-
   <p>I am a junior undergraduate in the JohnClass at <a href="https://en.zhiyuan.sjtu.edu.cn/" target="_blank">Zhiyuan College</a>, <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a>, majoring in Computer Science.</p>
-  <p>I am currently an undergraduate research intern at <a href="https://ai.jhu.edu/" target="_blank">Johns Hopkins University</a>, advised by Prof. <a href="https://xiaocw11.github.io/" target="_blank">Chaowei Xiao</a>. Previously, I worked with Prof. <a href="https://dirtyharrylyl.github.io/" target="_blank">Yong-Lu Li</a> in the <a href="https://mvig-rhos.com/" target="_blank">RHOS Lab</a> at SJTU and interned at Tencent XuanWu Lab.</p>
+  <p>I am currently advised by Prof. <a href="https://xiaocw11.github.io/" target="_blank">Chaowei Xiao</a> at <a href="https://ai.jhu.edu/" target="_blank">Johns Hopkins University</a>. Previously, I worked with Prof. <a href="https://dirtyharrylyl.github.io/" target="_blank">Yong-Lu Li</a> in the <a href="https://mvig-rhos.com/" target="_blank">RHOS Lab</a> at SJTU and interned at Tencent XuanWu Lab.</p>
   <p>My research interests include multimodal learning, AI safety, and model security. I am always open to discussions and potential collaborations.</p>
 
 education:
@@ -42,11 +42,15 @@ experience:
     date: ""
 
 awards:
-  - name: "Reviewer"
-    date: "ICLR 2026"
   - name: "Irving T. Ho Fellowship"
     date: "2025"
   - name: "ICPC Regional Gold Medal × 3"
     date: "2023"
   - name: "NOI Silver Medal"
     date: "2022"
+
+academic_service:
+  - name: "Reviewer"
+    date: "ICLR 2026"
+  - name: "Reviewer"
+    date: "NeurIPS 2026"

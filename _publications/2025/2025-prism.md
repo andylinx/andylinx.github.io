@@ -7,7 +7,7 @@ pub_date: "2025"
 abstract: >-
   PRISM studies robust alignment for vision-language models with principled reasoning, addressing the trade-off between safety and benign utility.
 authors:
-  - Nanxi Li*
+  - Nanxi Li
   - Zhengyue Zhao
   - G. Edward Suh
   - Marco Pavone
