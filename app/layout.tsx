@@ -1,14 +1,8 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 
 import "./globals.css";
 import "katex/dist/katex.min.css";
 import { Providers } from "@/components/providers";
-const inter = localFont({
-  src: "./fonts/inter-latin-wght-normal.woff2",
-  display: "swap",
-  variable: "--font-inter"
-});
 
 export const metadata: Metadata = {
   title: "Nanxi Li's Homepage",
@@ -42,7 +36,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${inter.variable} font-sans`}>
+      <body className="font-sans">
         <Providers>
           {children}
         </Providers>
