@@ -1,0 +1,12 @@
+baseurl: ""
+url: "https://andylinx.github.io"
+markdown: kramdown
+timezone: Asia/Shanghai
+collections:
+  publications:
+    output: false
+  news:
+    output: false
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
