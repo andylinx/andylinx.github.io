@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "description": "Research interests and experience timeline. Interests feed the Research page; experiences populate the detailed narrative cards.",
+    "fields": {
+      "interests": "Array of { title, description } cards",
+      "experiences": "Array of { title, period, role, advisor, funding, summary, bullets, tags }"
+    }
+  },
+  "en": {
+    "interests": [
+      {
+        "title": "AI Safety and Security",
+        "description": "Studying how to audit and align multimodal models and AI agents against evolving safety threats."
+      },
+      {
+        "title": "Multimodal Large Language Models",
+        "description": "Investigating how MLLMs perceive, associate, and reason across modalities — and where they fall short."
+      },
+      {
+        "title": "To be explored...",
+        "description": "Always open to new problems, discussions, and potential collaborations."
+      }
+    ],
+    "experiences": [
+      {
+        "title": "SafoLab, Johns Hopkins University",
+        "period": "",
+        "role": "Research Intern",
+        "advisor": "Prof. Chaowei Xiao",
+        "funding": "",
+        "summary": "Working on AI safety and security for vision-language models and AI agents.",
+        "bullets": [
+          "First-author work on PRISM, a reasoning-based safety alignment framework for VLMs (arXiv 2025).",
+          "Contributed to DynAuditClaw, a dynamic auditing framework for Openclaw (2026)."
+        ],
+        "tags": ["AI Safety", "VLM Alignment", "Agents"]
+      },
+      {
+        "title": "XuanWu Lab, Tencent",
+        "period": "",
+        "role": "Research Intern",
+        "advisor": "Jiashuo Liang · Guancheng Li",
+        "funding": "",
+        "summary": "Research on the safety and security of large language models.",
+        "bullets": [],
+        "tags": ["LLM Safety"]
+      },
+      {
+        "title": "RHOS Lab (MVIG), Shanghai Jiao Tong University",
+        "period": "",
+        "role": "Research Intern",
+        "advisor": "Prof. Yong-Lu Li",
+        "funding": "",
+        "summary": "Benchmarked the associative capabilities of multi-modal LLMs, leading to an ICLR 2025 paper.",
+        "bullets": [
+          "Co-authored The Labyrinth of Links (ICLR 2025): an association benchmark with an annotation-free construction pipeline."
+        ],
+        "tags": ["MLLM", "Benchmark"]
+      }
+    ]
+  },
+  "zh": {
+    "interests": [
+      {
+        "title": "AI 安全与模型安全",
+        "description": "研究如何对多模态模型与智能体进行审计与对齐，以应对不断演进的安全威胁。"
+      },
+      {
+        "title": "多模态大语言模型",
+        "description": "探究多模态大模型如何跨模态感知、联想与推理，以及它们的能力边界。"
+      },
+      {
+        "title": "待探索...",
+        "description": "始终欢迎新问题、新讨论与潜在的合作。"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "约翰霍普金斯大学 SafoLab",
+        "period": "",
+        "role": "科研实习生",
+        "advisor": "Chaowei Xiao 教授",
+        "funding": "",
+        "summary": "从事视觉语言模型与智能体的 AI 安全与模型安全研究。",
+        "bullets": [
+          "一作工作 PRISM：基于推理的 VLM 安全对齐框架（arXiv 2025）。",
+          "参与 DynAuditClaw：面向 Openclaw 的动态审计框架（2026）。"
+        ],
+        "tags": ["AI安全", "VLM对齐", "智能体"]
+      },
+      {
+        "title": "腾讯玄武实验室",
+        "period": "",
+        "role": "科研实习生",
+        "advisor": "梁家烁 · 李冠成",
+        "funding": "",
+        "summary": "从事大语言模型的安全与防护研究。",
+        "bullets": [],
+        "tags": ["大模型安全"]
+      },
+      {
+        "title": "上海交通大学 RHOS 实验室（MVIG）",
+        "period": "",
+        "role": "科研实习生",
+        "advisor": "Yong-Lu Li 教授",
+        "funding": "",
+        "summary": "对多模态大模型的联想能力进行基准评测，成果发表于 ICLR 2025。",
+        "bullets": [
+          "合作完成 The Labyrinth of Links（ICLR 2025）：免标注构建的多模态联想能力基准。"
+        ],
+        "tags": ["多模态", "评测基准"]
+      }
+    ]
+  }
+}

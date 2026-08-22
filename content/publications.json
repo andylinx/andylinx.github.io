@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "description": "Publications and patents with metadata for the Publications page.",
+    "fields": {
+      "entries": "Array of publication items",
+      "PublicationItem": {
+        "id": "Short identifier such as C.1",
+        "type": "C|J|P|S",
+        "title": "Title string",
+        "authors": "Author list, highlight yourself with * if needed",
+        "venue": "Conference, journal, or patent information",
+        "year": "Year string",
+        "tags": "Array of topic tags",
+        "links": "Array of { label, href }",
+        "notes": "Optional short note"
+      }
+    }
+  },
+  "en": {
+    "entries": [
+      {
+        "id": "C.1",
+        "type": "C",
+        "title": "Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models",
+        "authors": "Nanxi Li*, Xiang Wang, Yuanjie Chen, Haode Zhang, Hong Li, Yong-Lu Li",
+        "venue": "International Conference on Learning Representations (ICLR)",
+        "year": "2026",
+        "tags": ["Physics Understanding", "MLLM"],
+        "links": [
+          { "label": "Paper", "href": "https://arxiv.org/abs/2604.03302" },
+          { "label": "Code", "href": "https://github.com/andylinx/Scene-Dynamic-Field" }
+        ],
+        "notes": "First author"
+      },
+      {
+        "id": "S.1",
+        "type": "S",
+        "title": "PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality",
+        "authors": "Nanxi Li*, Zhengyue Zhao, G. Edward Suh, Marco Pavone, Chaowei Xiao",
+        "venue": "arXiv preprint",
+        "year": "2025",
+        "tags": ["VLM Safety", "Reasoning"],
+        "links": [
+          { "label": "Paper", "href": "https://arxiv.org/pdf/2508.18649" },
+          { "label": "Code", "href": "https://github.com/SaFoLab-WISC/PRISM" },
+          { "label": "Website", "href": "https://safolab-wisc.github.io/PRISM" }
+        ],
+        "notes": "First author"
+      },
+      {
+        "id": "C.2",
+        "type": "C",
+        "title": "The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs",
+        "authors": "Hong Li, Nanxi Li, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li",
+        "venue": "International Conference on Learning Representations (ICLR)",
+        "year": "2025",
+        "tags": ["Benchmark", "Association"],
+        "links": [
+          { "label": "Paper", "href": "https://arxiv.org/abs/2410.01417" },
+          { "label": "Code", "href": "https://github.com/lihong2303/LLM_Inception" },
+          { "label": "Project", "href": "https://mvig-rhos.com/llm_inception" }
+        ],
+        "notes": ""
+      }
+    ]
+  },
+  "zh": {
+    "entries": [
+      {
+        "id": "C.1",
+        "type": "C",
+        "title": "Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models",
+        "authors": "Nanxi Li*, Xiang Wang, Yuanjie Chen, Haode Zhang, Hong Li, Yong-Lu Li",
+        "venue": "International Conference on Learning Representations (ICLR)",
+        "year": "2026",
+        "tags": ["物理理解", "多模态大模型"],
+        "links": [
+          { "label": "论文", "href": "https://arxiv.org/abs/2604.03302" },
+          { "label": "代码", "href": "https://github.com/andylinx/Scene-Dynamic-Field" }
+        ],
+        "notes": "第一作者"
+      },
+      {
+        "id": "S.1",
+        "type": "S",
+        "title": "PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality",
+        "authors": "Nanxi Li*, Zhengyue Zhao, G. Edward Suh, Marco Pavone, Chaowei Xiao",
+        "venue": "arXiv preprint",
+        "year": "2025",
+        "tags": ["VLM安全", "推理"],
+        "links": [
+          { "label": "论文", "href": "https://arxiv.org/pdf/2508.18649" },
+          { "label": "代码", "href": "https://github.com/SaFoLab-WISC/PRISM" },
+          { "label": "网站", "href": "https://safolab-wisc.github.io/PRISM" }
+        ],
+        "notes": "第一作者"
+      },
+      {
+        "id": "C.2",
+        "type": "C",
+        "title": "The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs",
+        "authors": "Hong Li, Nanxi Li, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li",
+        "venue": "International Conference on Learning Representations (ICLR)",
+        "year": "2025",
+        "tags": ["评测基准", "联想能力"],
+        "links": [
+          { "label": "论文", "href": "https://arxiv.org/abs/2410.01417" },
+          { "label": "代码", "href": "https://github.com/lihong2303/LLM_Inception" },
+          { "label": "项目页", "href": "https://mvig-rhos.com/llm_inception" }
+        ],
+        "notes": ""
+      }
+    ]
+  }
+}

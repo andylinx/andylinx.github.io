@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "description": "Copy and labels for the CV page."
+  },
+  "en": {
+    "intro": {
+      "title": "Curriculum Vitae",
+      "description": "An overview of my education, research experience, honors, and skills.",
+      "eyebrow": "Overview",
+      "download": "Download PDF",
+      "contactLabel": "Contact",
+      "contactAction": "Reveal email",
+      "locationLabel": "Location"
+    },
+    "education": { "title": "Education", "eyebrow": "CV" },
+    "experience": { "title": "Research Experience", "eyebrow": "CV" },
+    "honors": {
+      "title": "Selected Honors & Community Service",
+      "eyebrow": "Recognition",
+      "headers": ["Year", "Award / Role", "Issuer"]
+    },
+    "skills": {
+      "title": "Skills",
+      "eyebrow": "CV",
+      "headers": ["Category", "Items"],
+      "rows": [
+        ["Programming", "C++, Python (PyTorch), LaTeX"],
+        ["English", "TOEFL 112 · CET-4 635 · CET-6 613"],
+        ["Community Service", "Reviewer for ICLR 2026"]
+      ]
+    },
+    "links": {
+      "title": "Additional Links",
+      "eyebrow": "CV",
+      "publications": "Publications overview",
+      "projects": "Project portfolio"
+    }
+  },
+  "zh": {
+    "intro": {
+      "title": "个人简历",
+      "description": "教育背景、科研经历、荣誉与技能概览。",
+      "eyebrow": "概览",
+      "download": "下载 PDF",
+      "contactLabel": "联系邮箱",
+      "contactAction": "点击显示邮箱",
+      "locationLabel": "常驻城市"
+    },
+    "education": { "title": "教育背景", "eyebrow": "简历" },
+    "experience": { "title": "科研经历", "eyebrow": "简历" },
+    "honors": {
+      "title": "荣誉与社区服务",
+      "eyebrow": "荣誉",
+      "headers": ["年份", "奖项 / 角色", "颁发机构"]
+    },
+    "skills": {
+      "title": "技能",
+      "eyebrow": "简历",
+      "headers": ["类别", "内容"],
+      "rows": [
+        ["编程语言", "C++、Python (PyTorch)、LaTeX"],
+        ["英语", "TOEFL 112 · CET-4 635 · CET-6 613"],
+        ["社区服务", "ICLR 2026 审稿人"]
+      ]
+    },
+    "links": {
+      "title": "更多链接",
+      "eyebrow": "简历",
+      "publications": "查看发表成果",
+      "projects": "浏览项目集锦"
+    }
+  }
+}

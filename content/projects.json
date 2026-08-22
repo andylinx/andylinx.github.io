@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "description": "Academic and open-source projects for the Projects page.",
+    "fields": {
+      "groups": "Array of { title, kind, items }",
+      "ProjectItem": {
+        "name": "Project title",
+        "summary": "One-sentence description",
+        "period": "Time range string",
+        "role": "Your role",
+        "tags": "Array of short tags",
+        "links": "Array of { label, href }",
+        "metrics": "Optional stats such as stars, users, demos"
+      }
+    }
+  },
+  "en": {
+    "groups": [
+      {
+        "title": "Research Projects",
+        "kind": "academic",
+        "items": [
+          {
+            "name": "Scene Dynamic Field",
+            "summary": "Integrates physics simulators into an MLLM fine-tuning framework to unlock intuitive physics understanding (ICLR 2026).",
+            "period": "",
+            "role": "First Author",
+            "tags": ["MLLM", "Physics Understanding"],
+            "links": [
+              { "label": "Paper", "href": "https://arxiv.org/abs/2604.03302" },
+              { "label": "Code", "href": "https://github.com/andylinx/Scene-Dynamic-Field" }
+            ],
+            "metrics": {}
+          },
+          {
+            "name": "DynAuditClaw",
+            "summary": "A dynamic auditing framework for Openclaw, released by SaFo Lab (2026).",
+            "period": "",
+            "role": "Contributor",
+            "tags": ["AI Safety", "Agents"],
+            "links": [
+              { "label": "Code", "href": "https://github.com/SaFo-Lab/DynAuditClaw" }
+            ],
+            "metrics": {}
+          },
+          {
+            "name": "LLM Inception (The Labyrinth of Links)",
+            "summary": "An association benchmark for multi-modal LLMs with annotation-free dataset construction (ICLR 2025).",
+            "period": "",
+            "role": "Co-author",
+            "tags": ["Benchmark", "MLLM"],
+            "links": [
+              { "label": "Paper", "href": "https://arxiv.org/abs/2410.01417" },
+              { "label": "Code", "href": "https://github.com/lihong2303/LLM_Inception" },
+              { "label": "Project", "href": "https://mvig-rhos.com/llm_inception" }
+            ],
+            "metrics": {}
+          }
+        ]
+      }
+    ]
+  },
+  "zh": {
+    "groups": [
+      {
+        "title": "科研项目",
+        "kind": "academic",
+        "items": [
+          {
+            "name": "Scene Dynamic Field",
+            "summary": "将物理仿真器引入多模态大模型微调框架，解锁直觉物理理解（ICLR 2026）。",
+            "period": "",
+            "role": "第一作者",
+            "tags": ["多模态大模型", "物理理解"],
+            "links": [
+              { "label": "论文", "href": "https://arxiv.org/abs/2604.03302" },
+              { "label": "代码", "href": "https://github.com/andylinx/Scene-Dynamic-Field" }
+            ],
+            "metrics": {}
+          },
+          {
+            "name": "DynAuditClaw",
+            "summary": "SaFo Lab 发布的面向 Openclaw 的动态审计框架（2026）。",
+            "period": "",
+            "role": "参与者",
+            "tags": ["AI安全", "智能体"],
+            "links": [
+              { "label": "代码", "href": "https://github.com/SaFo-Lab/DynAuditClaw" }
+            ],
+            "metrics": {}
+          },
+          {
+            "name": "LLM Inception (The Labyrinth of Links)",
+            "summary": "免标注构建的多模态大模型联想能力基准（ICLR 2025）。",
+            "period": "",
+            "role": "合作作者",
+            "tags": ["评测基准", "多模态大模型"],
+            "links": [
+              { "label": "论文", "href": "https://arxiv.org/abs/2410.01417" },
+              { "label": "代码", "href": "https://github.com/lihong2303/LLM_Inception" },
+              { "label": "项目页", "href": "https://mvig-rhos.com/llm_inception" }
+            ],
+            "metrics": {}
+          }
+        ]
+      }
+    ]
+  }
+}

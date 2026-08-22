@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "description": "Copy and labels for the Experience page."
+  },
+  "en": {
+    "experience": {
+      "title": "Research Experience",
+      "description": "Research internships across labs and industry.",
+      "eyebrow": "Experience"
+    },
+    "education": {
+      "title": "Academic Training",
+      "description": "Formal education chronology.",
+      "eyebrow": "Education"
+    }
+  },
+  "zh": {
+    "experience": {
+      "title": "科研经历",
+      "description": "跨实验室与业界的科研实习经历。",
+      "eyebrow": "经历"
+    },
+    "education": {
+      "title": "教育背景",
+      "description": "梳理从本科到研究生阶段的学习历程。",
+      "eyebrow": "教育"
+    }
+  }
+}

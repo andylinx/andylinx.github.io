@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "description": "Profile information in English and Chinese. Update both locales for consistency.",
+    "fields": {
+      "name": "Full name string",
+      "nativeName": "Optional secondary language name",
+      "aka": "Optional preferred nickname shown on English pages only",
+      "title": "Short professional title",
+      "affiliation": "Current institution, lab, or company",
+      "location": "City, Country",
+      "keywords": "Array of 2-4 short research keywords",
+      "social": "Array of { label, href } links",
+      "cvLink": "Relative URL to a downloadable CV under /public (leave empty to hide the download button)",
+      "avatar": "Optional path to an image under /public"
+    }
+  },
+  "en": {
+    "name": "Nanxi Li",
+    "nativeName": "李南锡",
+    "aka": "",
+    "title": "Undergraduate Student in Computer Science",
+    "affiliation": "Zhiyuan College, Shanghai Jiao Tong University",
+    "location": "Shanghai, China",
+    "keywords": ["AI Safety", "Multimodal Learning", "Large Language Models"],
+    "social": [
+      { "label": "GitHub", "href": "https://github.com/andylinx" },
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=in63JPYAAAAJ" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/nanxi-li-381339316/" },
+      { "label": "X", "href": "https://x.com/lnxandy" }
+    ],
+    "avatar": "/images/avatar.png",
+    "cvLink": "/files/Nanxi_Li_CV.pdf"
+  },
+  "zh": {
+    "name": "李南锡",
+    "nativeName": "Nanxi Li",
+    "title": "计算机科学专业本科生",
+    "affiliation": "上海交通大学致远学院",
+    "location": "中国·上海",
+    "keywords": ["AI安全", "多模态学习", "大语言模型"],
+    "social": [
+      { "label": "GitHub", "href": "https://github.com/andylinx" },
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=in63JPYAAAAJ" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/nanxi-li-381339316/" },
+      { "label": "X", "href": "https://x.com/lnxandy" }
+    ],
+    "avatar": "/images/avatar.png",
+    "cvLink": "/files/Nanxi_Li_CV.pdf"
+  }
+}

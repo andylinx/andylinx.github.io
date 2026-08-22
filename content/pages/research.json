@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "description": "Copy and labels for the Research page."
+  },
+  "en": {
+    "heroTitle": "Research Overview",
+    "heroDescription": "My research themes, ongoing work, and experience across labs.",
+    "interestsTitle": "Research Interests",
+    "interestsEyebrow": "Focus Areas",
+    "experienceTitle": "Research Experience",
+    "experienceEyebrow": "Experience",
+    "collaboration": "Interested in collaboration or internships? Feel free to reach out via the Contact page."
+  },
+  "zh": {
+    "heroTitle": "科研概览",
+    "heroDescription": "我的研究主题、进行中的工作与各实验室的经历。",
+    "interestsTitle": "研究兴趣",
+    "interestsEyebrow": "关注方向",
+    "experienceTitle": "科研经历",
+    "experienceEyebrow": "经历",
+    "collaboration": "对合作或实习感兴趣？欢迎通过 Contact 页面与我联系。"
+  }
+}
