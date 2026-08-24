@@ -2,6 +2,7 @@
 title: "PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality"
 date: 2025-08-18 00:01:00 +0800
 selected: true
+cover: "/assets/images/publications/prism.jpg"
 pub_pre: "arXiv preprint, "
 pub_date: "2025"
 abstract: >-
@@ -14,6 +15,7 @@ authors:
   - Chaowei Xiao
 links:
   Paper: https://arxiv.org/pdf/2508.18649
+  PDF: "/files/papers/prism.pdf"
   Code: https://github.com/SaFoLab-WISC/PRISM
   Website: https://safolab-wisc.github.io/PRISM
 ---

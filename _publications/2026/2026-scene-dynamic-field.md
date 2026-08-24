@@ -2,6 +2,7 @@
 title: "Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models"
 date: 2026-03-30 00:01:00 +0800
 selected: true
+cover: "/assets/images/publications/scene-dynamic-field.jpg"
 pub: "International Conference on Learning Representations (ICLR)"
 pub_date: "2026"
 abstract: >-
@@ -15,5 +16,6 @@ authors:
   - Yong-Lu Li
 links:
   Paper: https://arxiv.org/abs/2604.03302
+  PDF: "/files/papers/scene-dynamic-field.pdf"
   Code: https://github.com/andylinx/Scene-Dynamic-Field
 ---

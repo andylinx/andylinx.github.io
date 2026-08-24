@@ -2,6 +2,9 @@ baseurl: ""
 url: "https://andylinx.github.io"
 markdown: kramdown
 timezone: Asia/Shanghai
+kramdown:
+  input: GFM
+  parse_block_html: true
 collections:
   publications:
     output: false
