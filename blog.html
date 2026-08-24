@@ -13,20 +13,14 @@ permalink: /blog/
         </div>
 
         <div class="bg-white shadow-sm rounded-xl px-4">
-            {% assign posts = site.posts | sort: "date" | reverse %}
-            {% for post in posts %}
             <article class="blog-entry py-4">
                 <div class="d-flex flex-column flex-md-row align-items-md-baseline">
-                    <h2 class="mb-1 mr-md-3 font-weight-normal"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-                    <time class="small text-muted" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                    <h2 class="mb-1 mr-md-3 font-weight-normal"><a href="https://github.com/andylinx/secure_openclaw_blog" target="_blank">Securing OpenClaw: Full Position Paper</a></h2>
+                    <time class="small text-muted" datetime="2026-03-25">March 25, 2026</time>
                 </div>
-                {% if post.summary %}<div class="small text-muted mt-2">{{ post.summary }}</div>{% endif %}
-                {% if post.source %}<div class="small mt-2"><a href="{{ post.source }}" target="_blank">Source repository <i class="fab fa-github"></i></a></div>{% endif %}
-                <a class="small" href="{{ post.url | relative_url }}">Read post <i class="fas fa-arrow-right"></i></a>
+                <div class="small text-muted mt-2">A deep look at AI agent security: what is broken, what works, and what needs to change.</div>
+                <a class="small" href="https://github.com/andylinx/secure_openclaw_blog" target="_blank">Read on GitHub <i class="fab fa-github"></i></a>
             </article>
-            {% else %}
-            <p class="py-4 mb-0 text-muted">No posts yet.</p>
-            {% endfor %}
         </div>
     </div>
 </div>
