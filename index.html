@@ -20,5 +20,6 @@ navbar_title: Home
             {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
             {% include widgets/publication_card.html publications=pubs title='<i class="fas fa-star"></i> Selected Publications' %}
         {% endif %}
+        {% include widgets/project_card.html %}
     </div>
 </div>

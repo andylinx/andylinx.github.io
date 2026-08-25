@@ -103,6 +103,11 @@ div.lazy {
     margin-right: 0.5rem;
 }
 
+.project-links a {
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+
 .blog-entry {
     border-bottom: 1px solid #dee2e6;
 }

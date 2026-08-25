@@ -50,6 +50,10 @@ awards:
 
 academic_service:
   - name: "Reviewer"
-    date: "ICLR 2026"
-  - name: "Reviewer"
-    date: "NeurIPS 2026"
+    date: "ICLR 2026 · NeurIPS 2026"
+
+open_source_projects:
+  - name: "DynAuditClaw"
+    description: "A dynamic auditing framework for OpenClaw that continuously probes agent behavior, surfaces security risks, and helps developers evaluate agent workflows in realistic environments."
+    links:
+      GitHub: "https://github.com/SaFo-Lab/DynAuditClaw"
