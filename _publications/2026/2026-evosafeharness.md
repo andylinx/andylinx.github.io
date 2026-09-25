@@ -3,7 +3,7 @@ title: "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securi
 date: 2026-09-05 00:01:00 +0800
 selected: true
 cover: "/assets/images/publications/evosafeharness-teaser.png"
-pub: "arXiv preprint · In submission to ICLR 2027"
+pub: "arXiv preprint"
 authors:
   - Nanxi Li
   - Yingzi Ma
