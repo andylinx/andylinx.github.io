@@ -3,7 +3,7 @@ title: "LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrai
 date: 2026-05-01 00:01:00 +0800
 selected: true
 cover: "/assets/images/publications/latent-policy-guardrails.jpg"
-pub: "NeurIPS"
+pub: "Conference on Neural Information Processing Systems (NeurIPS)"
 pub_date: "2026"
 authors:
   - Nanxi Li
